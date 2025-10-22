@@ -6,3 +6,4 @@ Campos Sebastián
 2. Si alfa agrega un archivo los demás si lo pueden ver
 3. Si beta agrega un archivo los demás integrantes pueden verlo
 4. Nos comunicamos mediante la plataforma Discord
+5. Utilizando projects, para organizar las tareas correspondientes a cada integrante
