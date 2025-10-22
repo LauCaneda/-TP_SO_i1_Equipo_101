@@ -1,6 +1,8 @@
-caneda Lautaro
-Ayala marcos
-campos sebastian
+Caneda Lautaro
+Ayala Marcos
+Campos Sebastián
 
-1. alfa si puede ver los datos que cargaron sus compañeros
-2. si alfa agrega un archivo los demás si lo pueden ver
+1. Alfa si puede ver los datos que cargaron sus compañeros
+2. Si alfa agrega un archivo los demás si lo pueden ver
+3. Si beta agrega un archivo los demás integrantes pueden verlo
+4. Nos comunicamos mediante la plataforma Discord
