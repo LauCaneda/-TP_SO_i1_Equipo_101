@@ -1,0 +1,6 @@
+caneda Lautaro
+Ayala marcos
+campos sebastian
+
+1. alfa si puede ver los datos que cargaron sus compañeros
+2. si alfa agrega un archivo los demás si lo pueden ver
